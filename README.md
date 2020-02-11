@@ -90,8 +90,9 @@ SmartBubble(
 ```
 
 ## 截图
-![截图](https://github.com/50Death/Smart-Bubble-Widget/blob/master/screenshots/Screenshot_20200211-171136.jpg)
-
+![截图]()
+<img src="https://github.com/50Death/Smart-Bubble-Widget/blob/master/screenshots/Screenshot_20200211-171136.jpg" width = "144" height = "304" alt="截图" 
+align=center>
 ## 引用
 使用了StevenHu_Sir的不能自适应大小的气泡
 [点此跳转](https://www.jianshu.com/p/2eb98bc08078)，并在此基础上新增了自适应大小和左上方箭头
