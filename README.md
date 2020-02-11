@@ -77,10 +77,20 @@ padding → EdgeInsets
 其他参数请参考[内部气泡原作者](https://www.jianshu.com/p/2eb98bc08078)
 
 ## 使用样例
-[见下方]()
+```dart
+SmartBubble(
+    title: Text("192.168.31.1"),
+    arrowDirection: ArrowDirection.left,
+    child: Text("Hello",style: TextStyle(color: Colors.white, fontSize: 30)),
+),
+SmartBubble(
+    title: Text("192.168.31.1"),
+    child: Image.asset("assets/3.png")
+),
+```
 
 ## 截图
-[见下方]()
+![截图](https://github.com/50Death/Smart-Bubble-Widget/blob/master/screenshots/Screenshot_20200211-171136.jpg)
 
 ## 引用
 使用了StevenHu_Sir的不能自适应大小的气泡
