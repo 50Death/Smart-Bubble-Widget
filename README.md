@@ -1,5 +1,5 @@
 # Smart Bubble Widget
-[![pub package](https://img.shields.io/pub/v/smart_bubble)](https://pub.dev/packages/smart_bubble)[(https://img.shields.io/github/license/50Death/Smart-Bubble-Widget)](https://github.com/50Death/Smart-Bubble-Widget/blob/master/LICENSE)
+[![pub package](https://img.shields.io/pub/v/smart_bubble)](https://pub.dev/packages/smart_bubble)[![license](https://img.shields.io/github/license/50Death/Smart-Bubble-Widget)](https://github.com/50Death/Smart-Bubble-Widget/blob/master/LICENSE)
 [English Version]()
 一个可自适应大小的聊天气泡Flutter组件
 
